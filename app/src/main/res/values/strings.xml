@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloActivity</string>
+    <string name="click_me">Click Me!</string>
+    <string name="Hello_World">Hello Kotlin!</string>
+</resources>
